@@ -1,0 +1,6 @@
+name: FirstPlugin
+author: ImFantasyDev
+main: ImFantasy\FP\Main
+version: "1.0.0"
+api: 
+- 4.0.0
